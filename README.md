@@ -14,7 +14,7 @@
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Bryan+Emmanuel;.NET+%26+Full-Stack+Developer;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;React+%7C+Next.js+%7C+JavaScript;Building+Scalable+Web+Applications;Creating+Real-Time+Systems+with+SignalR;Turning+Ideas+Into+Digital+Experiences"
-  alt="Typing SVG"
+  alt="Typing Animation"
 />
 
 <br/>
@@ -24,25 +24,37 @@
 <br/>
 
 <a href="https://linkedin.com/in/bryan-emmanuel-paz">
-  <img src="https://img.shields.io/badge/LinkedIn-Bryan%20Emmanuel%20Paz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Bryan%20Emmanuel%20Paz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://instagram.com/iambryemmanuel">
-  <img src="https://img.shields.io/badge/Instagram-@iambryemmanuel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Instagram-@iambryemmanuel-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
 </a>
 
 <a href="https://x.com/Mr_EyeBag">
-  <img src="https://img.shields.io/badge/X-@Mr__EyeBag-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/X-@Mr__EyeBag-000000?style=for-the-badge&logo=x&logoColor=white"
+    alt="X"
+  />
 </a>
 
 <a href="https://discord.gg/shirohaze">
-  <img src="https://img.shields.io/badge/Discord-Shirohaze-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/Discord-Shirohaze-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+    alt="Discord"
+  />
 </a>
 
 <br/><br/>
 
 <img
-  src="https://komarev.com/ghpvc/?username=bryanemmanuel&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge"
+  src="https://img.shields.io/badge/PROFILE%20VIEWS-11%2C223-6C63FF?style=for-the-badge&logo=github&logoColor=white"
   alt="Profile Views"
 />
 
@@ -103,6 +115,7 @@ I enjoy working across the entire development lifecycle — from database archit
 # ⚡ What I'm Doing
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -138,6 +151,7 @@ I enjoy working across the entire development lifecycle — from database archit
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -220,7 +234,7 @@ I enjoy working across the entire development lifecycle — from database archit
 ## ⚙️ Backend & Frameworks
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
@@ -340,20 +354,20 @@ I enjoy working across the entire development lifecycle — from database archit
 
 <picture>
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/bryanemmanuel/bryanemmanuel/output/github-contribution-grid-snake-dark.svg"
-  />
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/bryanemmanuel/bryanemmanuel/output/github-contribution-grid-snake-dark.svg"
+/>
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/bryanemmanuel/bryanemmanuel/output/github-contribution-grid-snake.svg"
-  />
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/bryanemmanuel/bryanemmanuel/output/github-contribution-grid-snake.svg"
+/>
 
-  <img
-    src="https://raw.githubusercontent.com/bryanemmanuel/bryanemmanuel/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
+<img
+  src="https://raw.githubusercontent.com/bryanemmanuel/bryanemmanuel/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </picture>
 
@@ -369,7 +383,7 @@ I enjoy working across the entire development lifecycle — from database archit
 
 <td width="50%" valign="top">
 
-## 🖥️ Backend
+## 🖥️ Backend Development
 
 - ASP.NET Core
 - ASP.NET MVC
@@ -387,7 +401,7 @@ I enjoy working across the entire development lifecycle — from database archit
 
 <td width="50%" valign="top">
 
-## 🌐 Frontend
+## 🌐 Frontend Development
 
 - JavaScript
 - TypeScript
@@ -495,34 +509,34 @@ Every project is an opportunity to write cleaner code, design better architectur
 
 ---
 
-# 🚀 My Development Workflow
+# 🚀 Development Workflow
 
 ```text
-                    💡 IDEA
-                       │
-                       ▼
-                📝 PLANNING
-                       │
-                       ▼
-             🗃️ DATABASE DESIGN
-                       │
-                       ▼
-              ⚙️ BACKEND / API
-                       │
-                       ▼
-               🎨 FRONTEND UI
-                       │
-                       ▼
-             🧪 TEST & IMPROVE
-                       │
-                       ▼
-              ☁️ DEPLOYMENT
-                       │
-                       ▼
-                 🚀 RELEASE
-                       │
-                       ▼
-               🔄 ITERATION
+                  💡 IDEA
+                     │
+                     ▼
+               📝 PLANNING
+                     │
+                     ▼
+            🗃️ DATABASE DESIGN
+                     │
+                     ▼
+             ⚙️ BACKEND / API
+                     │
+                     ▼
+              🎨 FRONTEND UI
+                     │
+                     ▼
+            🧪 TEST & IMPROVE
+                     │
+                     ▼
+             ☁️ DEPLOYMENT
+                     │
+                     ▼
+                🚀 RELEASE
+                     │
+                     ▼
+              🔄 ITERATION
 ```
 
 ---
@@ -601,28 +615,28 @@ Every project is an opportunity to write cleaner code, design better architectur
 # 🛠️ How I Approach Development
 
 ```text
-Problem
-   │
-   ▼
-Understand Requirements
-   │
-   ▼
-Design Architecture
-   │
-   ▼
-Build Clean & Maintainable Code
-   │
-   ▼
-Test
-   │
-   ▼
-Optimize
-   │
-   ▼
-Deploy
-   │
-   ▼
-Monitor & Improve
+        Problem
+           │
+           ▼
+ Understand Requirements
+           │
+           ▼
+   Design Architecture
+           │
+           ▼
+ Build Clean & Maintainable Code
+           │
+           ▼
+          Test
+           │
+           ▼
+        Optimize
+           │
+           ▼
+         Deploy
+           │
+           ▼
+   Monitor & Improve
 ```
 
 ---
@@ -646,7 +660,7 @@ Monitor & Improve
 
 ### 💬 Have an interesting project, collaboration, or idea?
 
-I'm always interested in discussing
+I'm always interested in discussing:
 
 **Software Development • .NET • Web Development • Cloud • AI • System Architecture • Open Source**
 
@@ -698,7 +712,7 @@ If you enjoy my projects or find something I've built useful, you can support my
 
 <div align="center">
 
-### ⚡ Code • Create • Learn • Improve • Repeat
+## ⚡ Code • Create • Learn • Improve • Repeat
 
 <br/>
 
