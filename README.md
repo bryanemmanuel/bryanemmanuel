@@ -6,11 +6,13 @@
 
 <div align="center">
 
+
 <img
-src="[https://capsule-render.vercel.app/api?type=waving&height=220&text=Bryan%20Emmanuel&fontAlign=50&fontAlignY=38&desc=.NET%20%7C%20Full-Stack%20%7C%20Web3%20Developer&descAlign=50&descAlignY=58&animation=fadeIn&color=gradient](https://capsule-render.vercel.app/api?type=waving&height=220&text=Bryan%20Emmanuel&fontAlign=50&fontAlignY=38&desc=.NET%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=58&animation=fadeIn&color=gradien)"
-width="100%"
-alt="Bryan Emmanuel"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Bryan%20Emmanuel&fontAlign=50&fontAlignY=38&desc=.NET%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=58&animation=fadeIn&color=gradient"
+  width="100%"
+  alt="Bryan Emmanuel"
 />
+
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=1000&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Bryan+Emmanuel;.NET+%26+Full-Stack+Developer;Web3+%26+Blockchain+Developer;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;React+%7C+Next.js+%7C+TypeScript;Solidity+%7C+Ethereum+%7C+Wagmi+%7C+Viem;Building+Scalable+Web+Applications;Building+Smart+Contracts+%26+dApps;Creating+Real-Time+Systems+with+SignalR;Turning+Ideas+Into+Digital+Experiences"
