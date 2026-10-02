@@ -7,7 +7,7 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Bryan%20Emmanuel&fontAlign=50&fontAlignY=38&desc=.NET%20%7C%20Full-Stack%20%7C%20Web3%20Developer&descAlign=50&descAlignY=58&animation=fadeIn&color=gradient"
+src="[https://capsule-render.vercel.app/api?type=waving&height=220&text=Bryan%20Emmanuel&fontAlign=50&fontAlignY=38&desc=.NET%20%7C%20Full-Stack%20%7C%20Web3%20Developer&descAlign=50&descAlignY=58&animation=fadeIn&color=gradient](https://capsule-render.vercel.app/api?type=waving&height=220&text=Bryan%20Emmanuel&fontAlign=50&fontAlignY=38&desc=.NET%20%7C%20Full-Stack%20Developer&descAlign=50&descAlignY=58&animation=fadeIn&color=gradien)"
 width="100%"
 alt="Bryan Emmanuel"
 />
