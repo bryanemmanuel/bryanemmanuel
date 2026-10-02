@@ -121,65 +121,6 @@ My primary development stack revolves around **ASP.NET Core, C#, Entity Framewor
 
 I enjoy working across the entire development lifecycle — from database architecture and backend APIs to responsive interfaces, smart contracts, decentralized applications, real-time systems, dashboards, deployment, and interactive web experiences.
 
----
-
-# ⚡ What I'm Doing
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🔭 Currently Building
-
-* ASP.NET Core applications
-* Information management systems
-* Real-time applications
-* REST APIs
-* Interactive dashboards
-* Full-stack applications
-* Tracking systems
-* System integrations
-* Smart contracts
-* Web3 applications
-* Decentralized applications
-* Wallet-integrated applications
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌱 Currently Exploring
-
-* Artificial Intelligence
-* Cloud Architecture
-* AWS
-* Microsoft Azure
-* React
-* Next.js
-* Three.js
-* Modern UI/UX
-* DevOps
-* CI/CD
-* Web3 Development
-* Solidity
-* Ethereum
-* Wagmi
-* Viem
-* Hardhat
-* Foundry
-* Smart Contracts
-* Decentralized Applications
-* Blockchain Architecture
-
-</td>
-
-</tr>
-
-</table>
-
----
 
 # 💻 Tech Stack
 
