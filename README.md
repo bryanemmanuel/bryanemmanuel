@@ -15,13 +15,14 @@
 
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=1000&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Bryan+Emmanuel;.NET+%26+Full-Stack+Developer;Web3+%26+Blockchain+Developer;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;React+%7C+Next.js+%7C+TypeScript;Solidity+%7C+Ethereum+%7C+Wagmi+%7C+Viem;Building+Scalable+Web+Applications;Building+Smart+Contracts+%26+dApps;Creating+Real-Time+Systems+with+SignalR;Turning+Ideas+Into+Digital+Experiences"
-alt="Typing Animation"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=1000&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Bryan+Emmanuel;.NET+%26+Full-Stack+Developer;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;React+%7C+Next.js+%7C+TypeScript;Building+Scalable+Web+Applications;Creating+Real-Time+Systems+with+SignalR;Turning+Ideas+Into+Digital+Experiences"
+  alt="Typing Animation"
 />
+
 
 <br/>
 
-### 🚀 Building scalable systems, interactive experiences, Web3 applications, and software that solves real problems.
+### 🚀 Building scalable systems, interactive experiences, applications, and software that solve real problems.
 
 <br/>
 
